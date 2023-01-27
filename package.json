@@ -1,0 +1,11 @@
+{
+  "name": "yuanjingtech.github.io",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "git@github.com:yuanjingtech/yuanjingtech.github.io.git",
+  "author": "lotosbin <lotosbin@gmail.com>",
+  "license": "MIT",
+    "scripts":{
+        "serve": "bundle exec jekyll serve"
+    }
+}
