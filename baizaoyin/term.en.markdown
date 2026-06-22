@@ -48,14 +48,14 @@ If you have any questions about these Terms of Service, please contact us at: lo
 
 ## Subscription & Auto-Renewal
 
-This application offers the following auto-renewing subscriptions. Prices and currency are determined by the App Store storefront of your Apple ID and are displayed in-app and in App Store Connect.
+This application offers the following auto-renewing subscriptions. Prices and currency are determined by the App Store storefront of your Apple ID.
 
-| Plan | Product ID | Duration | Auto-Renewal |
-|---|---|---|---|
-| Monthly | `ybl.monthly` | 1 month | Auto-renews 24 hours before the end of the current period |
-| Yearly | `ybl.yearly` | 1 year | Auto-renews 24 hours before the end of the current period |
+| Plan | Product ID | Duration | Price (USD) | Auto-Renewal |
+|---|---|---|---|---|
+| Monthly | `ybl.monthly` | 1 month | $2.99 | Auto-renews 24 hours before the end of the current period |
+| Yearly | `ybl.yearly` | 1 year | $12.99 (save 60% vs monthly) | Auto-renews 24 hours before the end of the current period |
 
-> The exact price and currency (CNY, USD, EUR, etc.) are shown in the in-app paywall and on your App Store subscription page. Pricing is set in App Store Connect and varies by region and platform.
+> Prices in other currencies (CNY, EUR, etc.) are determined by the App Store storefront of your Apple ID and are shown in the in-app paywall and on your App Store subscription page.
 
 ### Billing & Renewal
 
