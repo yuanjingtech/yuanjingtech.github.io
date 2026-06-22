@@ -46,4 +46,43 @@ These Terms of Service are governed by the laws of the People's Republic of Chin
 
 If you have any questions about these Terms of Service, please contact us at: lotosbin@gmail.com
 
+## Subscription & Auto-Renewal
+
+This application offers the following auto-renewing subscriptions:
+
+| Plan | Duration | Price | Auto-Renewal |
+|---|---|---|---|
+| Monthly (`ybl.monthly`) | 1 month | ¥18.00 | Auto-renews 24 hours before the end of the current period |
+| Yearly (`ybl.yearly`) | 1 year | ¥88.00 (≈ ¥7.33/month, save 60%) | Auto-renews 24 hours before the end of the current period |
+
+### Billing & Renewal
+
+1. Payment is charged to your iTunes account at confirmation of purchase.
+2. Your subscription automatically renews unless auto-renew is turned off at least **24 hours** before the end of the current billing period.
+3. Your account will be charged for renewal within 24 hours prior to the end of the current period.
+
+### How to Cancel
+
+You may cancel your subscription at any time:
+
+> iOS Settings → Apple ID → Subscriptions → select "Rouyin" → turn off Auto-Renewal
+
+If you cancel, you will continue to have full Premium access for the remainder of the current paid period. Cancellation takes effect at the end of the current billing cycle.
+
+### Refunds
+
+Subscription payments are managed entirely by Apple. To request a refund, please visit [reportaproblem.apple.com](https://reportaproblem.apple.com) and follow Apple's refund policy. The developer of this application is not able to issue refunds directly.
+
+### Family Sharing
+
+This application does **not** offer Apple Family Sharing. Each subscription is tied to a single Apple ID.
+
+### Changes to Subscriptions
+
+We reserve the right to modify subscription pricing, features, or discontinue any subscription tier. Material changes will be communicated in advance through in-app notices or this page.
+
+### Data Usage
+
+Subscription status is associated only with your Apple ID. This app does not collect your name, email, or payment information. See our [Privacy Policy](/baizaoyin/privacy/en/).
+
 © 2026 Yuanjing Tech
