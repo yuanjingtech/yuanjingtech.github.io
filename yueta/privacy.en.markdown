@@ -10,6 +10,8 @@ Last updated: November 12, 2026
 
 This Privacy Policy applies to the "Yueta" (悦她) iOS application (Bundle ID: `com.yuanjingtech.yueta`, the "App"), provided by Yuanjing Tech ("we", "us").
 
+This Policy applies together with our [Terms of Service](/yueta/term/en/). Using the App means you also accept those Terms.
+
 ## 1. In One Sentence
 
 **Yueta keeps your data on your phone.** The App has no accounts, makes no network requests, and does not collect, upload, or share any of your personal data. Everything you record stays in the App's sandbox on your own device and is visible only to you.
