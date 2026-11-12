@@ -115,4 +115,6 @@ For any question, comment, or complaint about this Privacy Policy:
 
 We will respond within 15 business days of receiving your request.
 
+This Policy and our [Terms of Service](/zhishichangyu/term/en/) apply together; where they conflict, each governs the matter it addresses.
+
 © 2026 Yuanjing Tech

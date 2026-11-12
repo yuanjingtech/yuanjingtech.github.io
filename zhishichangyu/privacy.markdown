@@ -115,4 +115,6 @@ permalink: /zhishichangyu/privacy/
 
 我们会在收到请求后 15 个工作日内答复。
 
+本政策与《[用户条款](/zhishichangyu/term/)》一并适用；两者冲突时，以各自约定的事项为准。
+
 © 2026 Yuanjing Tech
