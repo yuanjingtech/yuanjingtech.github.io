@@ -29,6 +29,8 @@ The following information is generated as you use the App and is stored only on 
 
 **None of this information is sent to any server.** The App contains no networking code and integrates no third-party SDKs (no analytics, no advertising, no crash reporting, no push provider). It does not use iCloud or CloudKit sync.
 
+> **On data export:** Because all data stays on your own device and is never transmitted to any server (domestic or foreign), the App **does not export personal information** and is not subject to a data export security assessment, certification, or standard contract filing.
+
 > We do **not** collect: your name, phone number, email, government ID, location, contacts, photos, clipboard, device identifiers (IDFA/IDFV), Health app data, or message content. We do not build user profiles and do not track you across apps.
 
 ## 3. Where Data Is Stored
